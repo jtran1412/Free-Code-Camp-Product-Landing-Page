@@ -1,2 +1,2 @@
-# Free-Code-Camp-Product-Landing-Page
+Product-Landing-Page
 Free Code Camp Project - Product Landing Page
